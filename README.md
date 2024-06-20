@@ -5,10 +5,12 @@ This is a project to do an immersive makeover for MUD games based on
 CoffeeMud http://www.coffeemud.org/whatiscm.html using the free client
 Mudlet https://www.mudlet.org/
 
-(Updated 12 June 2022)
-
 # Change History
 
+2024-06-20 (June 20)
+Active development has forked to XAMM2 which is currently in private development.
+
+2022-06-12 (June 12)
 XAMM was formerly "Xanthia's Audio Manager for Mudlet" and implemented at
 the Cities Of M'Dhoria MUD. The previous description was as follows:
 

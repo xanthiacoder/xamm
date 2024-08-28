@@ -7,6 +7,9 @@ Mudlet https://www.mudlet.org/
 
 # Change History
 
+2024-08-29 (Aug 29)
+Added default sounds to the audio directory for "play-on-demand" support for ShaXAMM
+
 2024-06-20 (June 20)
 Active development has forked to XAMM2 which is currently in private development.
 
